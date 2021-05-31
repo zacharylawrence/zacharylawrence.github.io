@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Zachary Lawrence</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="images/avatar.jpg" width="150"/></span>
+							<h1>Zachary Lawrence</h1>
+							<p>Data Scientist</p>
+						</header>
+
+						<footer>
+							<ul class="actions special">
+								<li><a href="resume.pdf" class="button">Resume</a></li>
+								<li><a href="mailto:&#109;&#097;&#105;&#108;&#064;&#122;&#097;&#099;&#104;&#097;&#114;&#121;&#108;&#097;&#119;&#114;&#101;&#110;&#099;&#101;&#046;&#099;&#111;&#109;" class="button">Email</a></li>
+								<li><a href="publickey.mail@zacharylawrence.com.asc" class="button">PGP Key</a></li>
+							</ul>
+							<!-- <ul class="icons">
+								<li><a href="https://github.com/zacharylawrence" class="icon brands">Resume</a></li>
+								<li><a href="https://github.com/zacharylawrence" class="icon brands fa-github">GitHub</a></li>
+								<li><a href="#" class="icon brands fa-envelope-o">Email</a></li>
+							</ul> -->
+						</footer>
+					</section>
+
+				<!-- Footer -->
+				<footer id="footer"> </footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-preload\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
+	</body>
+</html>
